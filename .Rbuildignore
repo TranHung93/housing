@@ -1,0 +1,9 @@
+^renv$
+^renv\.lock$
+^dev$
+^\.here$
+^LICENSE\.md$
+^README\.Rmd$
+^CODE_OF_CONDUCT\.md$
+^housing\.Rproj$
+^\.Rproj\.user$
