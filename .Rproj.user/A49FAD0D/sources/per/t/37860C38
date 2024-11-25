@@ -1,0 +1,26 @@
+{
+    "id": "37860C38",
+    "path": "D:/reproducible_project/housing/dev/save_data.Rmd",
+    "project_path": "dev/save_data.Rmd",
+    "type": "r_markdown",
+    "hash": "2352073404",
+    "contents": "",
+    "dirty": false,
+    "created": 1732525987711.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "196,8",
+        "scrollLine": "5"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1732522494,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1732526150390,
+    "read_only": false,
+    "read_only_alternatives": []
+}
